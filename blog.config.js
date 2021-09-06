@@ -2,8 +2,8 @@ const BLOG = {
   title: 'Mackto',
   author: 'Mackto H.',
   email: 'tp@temp.org',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://nobelium-chi-mocha.vercel.app',
+  description: 'Mackto的自留地',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
